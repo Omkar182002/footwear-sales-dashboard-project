@@ -3,6 +3,25 @@
 An interactive Power BI dashboard built to practice end-to-end data analysis — from data modeling to visualization — using a footwear retail sales dataset.
 
 ---
+## Dashboard Preview
+
+### Executive Summary
+
+![Executive Summary](images/Executive_Summary.png)
+
+---
+
+### Product Performance Analysis
+
+![Product Performance Analysis](images/Product_Performance.png)
+
+---
+
+### Customer Analysis
+
+![Customer Analysis](images/Customer_Analysis.png)
+
+---
 
 ## About This Project
 
